@@ -1,0 +1,8 @@
+speechrecognition==3.10.0
+pywhatkit==5.4
+edge-tts==6.1.9
+playsound==1.2.2
+pyaudio==0.2.14; platform_system=="Windows"
+sounddevice==0.5.1
+numpy
+tk
